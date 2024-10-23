@@ -8,6 +8,7 @@ public class RedactionServiceApplication {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Application starts From Here...");
 		SpringApplication.run(RedactionServiceApplication.class, args);
 
 	}
